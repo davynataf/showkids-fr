@@ -1,0 +1,140 @@
+@font-face {
+  font-family: 'pticons';
+  src: url('../fonts/pticons.woff?ci6x92') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="pticon-"], [class*=" pticon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'pticons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.pticon-sidebar-toggle:before {
+  content: "\e938";
+}
+.pticon-arrow-lock:before {
+  content: "\e937";
+}
+.pticon-arrow-play:before {
+  content: "\e936";
+}
+.pticon-arrow-swap:before {
+  content: "\e935";
+}
+.pticon-arrow-left-2:before {
+  content: "\e934";
+}
+.pticon-arrow-right-2:before {
+  content: "\e933";
+}
+.pticon-quote:before {
+  content: "\e932";
+}
+.pticon-fireworks:before {
+  content: "\e931";
+}
+.pticon-wedding-rings:before {
+  content: "\e930";
+}
+.pticon-video-camera:before {
+  content: "\e929";
+}
+.pticon-photo-camera:before {
+  content: "\e928";
+}
+.pticon-plus-2:before {
+  content: "\e927";
+}
+.pticon-plus:before {
+  content: "\e926";
+}
+.pticon-pinterest:before {
+  content: "\e925";
+}
+.pticon-facebook:before {
+  content: "\e924";
+}
+.pticon-twitter:before {
+  content: "\e923";
+}
+.pticon-telegram:before {
+  content: "\e922";
+}
+.pticon-instagram:before {
+  content: "\e921";
+}
+.pticon-like-2:before {
+  content: "\e920";
+}
+.pticon-like:before {
+  content: "\e919";
+}
+.pticon-star-2:before {
+  content: "\e918";
+}
+.pticon-star:before {
+  content: "\e917";
+}
+.pticon-remove:before {
+  content: "\e916";
+}
+.pticon-add:before {
+  content: "\e915";
+}
+.pticon-checkmark:before {
+  content: "\e914";
+}
+.pticon-phone:before {
+  content: "\e913";
+}
+.pticon-envelope:before {
+  content: "\e912";
+}
+.pticon-location:before {
+  content: "\e911";
+}
+.pticon-share:before {
+  content: "\e910";
+}
+.pticon-search:before {
+  content: "\e909";
+}
+.pticon-bag:before {
+  content: "\e908";
+}
+.pticon-chevron-up:before {
+  content: "\e907";
+}
+.pticon-chevron-down:before {
+  content: "\e906";
+}
+.pticon-chevron-left:before {
+  content: "\e905";
+}
+.pticon-chevron-right:before {
+  content: "\e904";
+}
+.pticon-arrow-up:before {
+  content: "\e903";
+}
+.pticon-arrow-down:before {
+  content: "\e902";
+}
+.pticon-arrow-left:before {
+  content: "\e901";
+}
+.pticon-arrow-right:before {
+  content: "\e900";
+}
